@@ -1,5 +1,7 @@
 # Seven-Segment Calculator
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+
 Small Tkinter calculator that renders digits in a seven-segment style on a Canvas to resemble a real calculator display.
 
 Requirements
