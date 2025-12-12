@@ -1,0 +1,12 @@
+.venv/
+dist/
+!dist/calculator.exe
+build/
+__pycache__/
+*.spec
+*.pyc
+.env
+.env*
+.DS_Store
+.idea/
+.vscode/

@@ -1,0 +1,51 @@
+start debug2
+base: c:\workspace\keycaps
+processing c:\workspace\keycaps\keycap_MC.png exists=False
+saved c:\workspace\keycaps\keycap_MC.png size=1104
+processing c:\workspace\keycaps\keycap_M+.png exists=False
+saved c:\workspace\keycaps\keycap_M+.png size=876
+processing c:\workspace\keycaps\keycap_M-.png exists=False
+saved c:\workspace\keycaps\keycap_M-.png size=802
+processing c:\workspace\keycaps\keycap_MR.png exists=False
+saved c:\workspace\keycaps\keycap_MR.png size=1062
+processing c:\workspace\keycaps\keycap_C.png exists=False
+saved c:\workspace\keycaps\keycap_C.png size=865
+processing c:\workspace\keycaps\keycap_+/-.png exists=False
+ERR [Errno 2] No such file or directory: 'c:\\workspace\\keycaps\\keycap_+/-.png'
+processing c:\workspace\keycaps\keycap_%.png exists=False
+saved c:\workspace\keycaps\keycap_%.png size=1272
+processing c:\workspace\keycaps\keycap_←.png exists=False
+saved c:\workspace\keycaps\keycap_←.png size=503
+processing c:\workspace\keycaps\keycap_7.png exists=False
+saved c:\workspace\keycaps\keycap_7.png size=647
+processing c:\workspace\keycaps\keycap_8.png exists=False
+saved c:\workspace\keycaps\keycap_8.png size=1037
+processing c:\workspace\keycaps\keycap_9.png exists=False
+saved c:\workspace\keycaps\keycap_9.png size=1006
+processing c:\workspace\keycaps\keycap_/.png exists=False
+ERR unknown file extension: 
+processing c:\workspace\keycaps\keycap_4.png exists=False
+saved c:\workspace\keycaps\keycap_4.png size=662
+processing c:\workspace\keycaps\keycap_5.png exists=False
+saved c:\workspace\keycaps\keycap_5.png size=779
+processing c:\workspace\keycaps\keycap_6.png exists=False
+saved c:\workspace\keycaps\keycap_6.png size=984
+processing c:\workspace\keycaps\keycap_*.png exists=False
+ERR [Errno 22] Invalid argument: 'c:\\workspace\\keycaps\\keycap_*.png'
+processing c:\workspace\keycaps\keycap_1.png exists=False
+saved c:\workspace\keycaps\keycap_1.png size=451
+processing c:\workspace\keycaps\keycap_2.png exists=False
+saved c:\workspace\keycaps\keycap_2.png size=866
+processing c:\workspace\keycaps\keycap_3.png exists=False
+saved c:\workspace\keycaps\keycap_3.png size=934
+processing c:\workspace\keycaps\keycap_-.png exists=False
+saved c:\workspace\keycaps\keycap_-.png size=358
+processing c:\workspace\keycaps\keycap_0.png exists=False
+saved c:\workspace\keycaps\keycap_0.png size=968
+processing c:\workspace\keycaps\keycap_..png exists=False
+saved c:\workspace\keycaps\keycap_..png size=377
+processing c:\workspace\keycaps\keycap_=.png exists=False
+saved c:\workspace\keycaps\keycap_=.png size=377
+processing c:\workspace\keycaps\keycap_+.png exists=False
+saved c:\workspace\keycaps\keycap_+.png size=437
+finished

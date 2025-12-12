@@ -1,0 +1,51 @@
+start debug
+base: c:\workspace\keycaps
+processing c:\workspace\keycaps\keycap_MC.png exists=False
+ERR 'ImageDraw' object has no attribute 'textsize'
+processing c:\workspace\keycaps\keycap_M+.png exists=False
+ERR 'ImageDraw' object has no attribute 'textsize'
+processing c:\workspace\keycaps\keycap_M-.png exists=False
+ERR 'ImageDraw' object has no attribute 'textsize'
+processing c:\workspace\keycaps\keycap_MR.png exists=False
+ERR 'ImageDraw' object has no attribute 'textsize'
+processing c:\workspace\keycaps\keycap_C.png exists=False
+ERR 'ImageDraw' object has no attribute 'textsize'
+processing c:\workspace\keycaps\keycap_+/-.png exists=False
+ERR 'ImageDraw' object has no attribute 'textsize'
+processing c:\workspace\keycaps\keycap_%.png exists=False
+ERR 'ImageDraw' object has no attribute 'textsize'
+processing c:\workspace\keycaps\keycap_←.png exists=False
+ERR 'ImageDraw' object has no attribute 'textsize'
+processing c:\workspace\keycaps\keycap_7.png exists=False
+ERR 'ImageDraw' object has no attribute 'textsize'
+processing c:\workspace\keycaps\keycap_8.png exists=False
+ERR 'ImageDraw' object has no attribute 'textsize'
+processing c:\workspace\keycaps\keycap_9.png exists=False
+ERR 'ImageDraw' object has no attribute 'textsize'
+processing c:\workspace\keycaps\keycap_/.png exists=False
+ERR 'ImageDraw' object has no attribute 'textsize'
+processing c:\workspace\keycaps\keycap_4.png exists=False
+ERR 'ImageDraw' object has no attribute 'textsize'
+processing c:\workspace\keycaps\keycap_5.png exists=False
+ERR 'ImageDraw' object has no attribute 'textsize'
+processing c:\workspace\keycaps\keycap_6.png exists=False
+ERR 'ImageDraw' object has no attribute 'textsize'
+processing c:\workspace\keycaps\keycap_*.png exists=False
+ERR 'ImageDraw' object has no attribute 'textsize'
+processing c:\workspace\keycaps\keycap_1.png exists=False
+ERR 'ImageDraw' object has no attribute 'textsize'
+processing c:\workspace\keycaps\keycap_2.png exists=False
+ERR 'ImageDraw' object has no attribute 'textsize'
+processing c:\workspace\keycaps\keycap_3.png exists=False
+ERR 'ImageDraw' object has no attribute 'textsize'
+processing c:\workspace\keycaps\keycap_-.png exists=False
+ERR 'ImageDraw' object has no attribute 'textsize'
+processing c:\workspace\keycaps\keycap_0.png exists=False
+ERR 'ImageDraw' object has no attribute 'textsize'
+processing c:\workspace\keycaps\keycap_..png exists=False
+ERR 'ImageDraw' object has no attribute 'textsize'
+processing c:\workspace\keycaps\keycap_=.png exists=False
+ERR 'ImageDraw' object has no attribute 'textsize'
+processing c:\workspace\keycaps\keycap_+.png exists=False
+ERR 'ImageDraw' object has no attribute 'textsize'
+finished
